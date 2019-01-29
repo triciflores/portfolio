@@ -1,0 +1,4 @@
+.bbd { border-bottom-style: dashed; border-bottom-width: 1px; border-bottom-color: #ff6300; }
+
+.hover-bg-washed-orange:hover { background-color: #ffe0cc; }
+.hover-bg-washed-orange:focus { background-color: #ffe0cc; }
